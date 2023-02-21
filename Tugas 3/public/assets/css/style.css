@@ -1,0 +1,58 @@
+header{
+    padding: 1px;
+    text-align: center;
+    background: #b2c0bd;
+    color: rgb(95, 105, 114) ;
+    width:100 px;
+    margin-bottom:20px;
+  }
+  
+  
+  footer{
+    padding: 1px;
+    text-align: center;
+    background: #696972;
+    color: rgb(66, 58, 100);
+    position: fixed ;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  body{
+      background-color: rgb(255, 255, 255);
+      margin: 0;
+    }
+  
+  th{
+    background-color: rgb(70, 100, 84);
+  }
+  
+  .card{
+    margin: 0px 50px ;
+    float: right ;
+    padding : 0% 5% ;
+    border : 3px rgb(138, 162, 138) solid ;
+  }
+  
+  header:hover{
+    color: rgb(139, 180, 139) ;
+  }
+  
+  img{
+    width: 90px; 
+    float: center ;
+    padding : 4% 0% ;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .card h1{
+    text-align: center;
+  }
+
+  table {
+    margin: auto;
+    font-size: medium;
+  }
